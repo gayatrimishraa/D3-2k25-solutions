@@ -11,3 +11,4 @@ Submissions of all problem statement solutions.
 | Team Name | Project Link |
 |------------|---------------|
 | Hackasauras | [Drawisly](https://github.com/SobhanSah00/iiit_bbsrDrawisly) |
+|Team Diamond | [Kaushal (https://github.com/gayatrimishraa/kaushal) |
